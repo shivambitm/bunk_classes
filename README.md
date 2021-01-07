@@ -36,7 +36,7 @@ Just Go to Sleep: ...
    click the Run Button in the Top
    ```
 
-3. The bot will asl for time to join and leave the meeting
+3. The bot will ask for time to join and leave the meeting
 
    ```sh
    Enjoy!!!
