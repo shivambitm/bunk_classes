@@ -7,7 +7,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/shivamkumar0611/bunk_classes)](https://github.com/shivamkumar0611/bunk_classes/issues)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?)](https://github.com/shivamkumar0611/bunk_classes/issues)
 ## :rainbow: Hey Repo Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=shivamkumar0611 alt=shivamkumar0611/></p>
 
 <h3>This tool can be used to automatically join Microsoft Teams Meetings </h3>
 If you want Microsoft Teams to join and leave Meetings on its own than this tool can help you. !!!! This is Just for educational purpose don't misuse this tool !!!! Please Make sure to go through proper settings before using this tool. This tool is scripted in python 3.8 .
