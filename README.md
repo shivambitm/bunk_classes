@@ -21,3 +21,22 @@ Just Go to Sleep: ...
 6.Pay someone to be you:  
 
 # It's not about fair, in college you have to maintain balance in everything you do sure bunk classes but make sure you have at least average attendance and don't bunk repeatedly same subject class, maintain variation. Enjoy college life while you can!
+
+## 🛠 Installation & Set Up
+
+1. Install the VS Code
+
+   ```sh
+   copy the codes (Ctrl + C , Ctrl + V)
+   ```
+
+2. Set the environment to Python 3.6 or 3.8
+
+   ```sh
+   click the Run Button in the Top
+   ```
+
+3. The bot will asl for time to join and leave the meeting
+
+   ```sh
+   Enjoy!!!
