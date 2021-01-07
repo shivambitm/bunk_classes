@@ -9,6 +9,9 @@
 
 <h3>This tool can be used to automatically join Microsoft Teams Meetings </h3>
 If you want Microsoft Teams to join and leave Meetings on its own than this tool can help you. !!!! This is Just for educational purpose don't misuse this tool !!!! Please Make sure to go through proper settings before using this tool. This tool is scripted in python 3.8 .
+Once the meeting is done, it closes the Google Chrome page and this process continues every time you have an online class to attend.
+Just remember to make the setting of mictosoft Teams in chromre to open in Application only...
+If you found any issues or errors that feel free to ask me anywhere in social media I AM EVERYWHERE just do a GOOGLE Search on "shivamkumar0611"..
 
 # Btw you can use these also :)
 ## How to Bunk Online Classes:
