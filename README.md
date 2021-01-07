@@ -2,10 +2,10 @@
 <h2 align = 'center'>THE BUNK BOT</h2>
 
 ![Python 3.8.5](https://img.shields.io/badge/Python-3.8.5-blue?style=flat&logo=python)
-[![GitHub stars](https://img.shields.io/github/stars/sujaysathya/bunk_bot?color=green)](https://github.com/sujaysathya/bunk_bot/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/sujaysathya/bunk_bot?color=green)](https://github.com/sujaysathya/bunk_bot/network)
+[![GitHub stars](https://img.shields.io/github/stars/shivamkumar0611/bunk_classes?color=green)](https://github.com/shivamkumar0611/bunk_classes)
+[![GitHub forks](https://img.shields.io/github/forks/shivamkumar0611/bunk_classes?color=green)](https://github.com/shivamkumar0611/bunk_classes/network)
 [![GitHub issues](https://img.shields.io/github/issues/shivamkumar0611/bunk_classes)](https://github.com/shivamkumar0611/bunk_classes/issues)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?)](https://github.com/sujaysathya/bunk_bot/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?)](https://github.com/shivamkumar0611/bunk_classes/issues)
 This tool can be used to automatically join Microsoft Teams Meetings
 If you want Microsoft Teams to join and leave Meetings on its own than this tool can help you. !!!! This is Just for educational purpose don't misuse this tool !!!! Please Make sure to go through proper settings before using this tool. This tool is scripted in python 3.8 .
 
